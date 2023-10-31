@@ -1,0 +1,7 @@
+seaborn
+matplotlib
+jupyterlab
+numpy
+pandas==2.0.*
+scipy
+jupytext
